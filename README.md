@@ -2,13 +2,27 @@
 Swift is like Kotlin
 
 ## BASICS
-
-Hello World
-```Swift
-print("Hello World!")
-```
 
-```Kotlin
-println("Hello, world!")
-```
+<table>
+    <tr>
+        <td>Hello World!</td>
+    </tr>
+    <tr>
+        <td>Swift</td>
+        <td>
+        ```Swift
+        print("Hello World!")
+        ```
+        </td>
+        <td>Kotlin</td>
+        <td>
+        ```Kotlin
+        println("Hello, world!")
+        ```
+        </td>
+    </tr>
+</table>
+
+
+
 
